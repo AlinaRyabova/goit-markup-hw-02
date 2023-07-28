@@ -31,7 +31,6 @@ body {
 }
 
 .header-link-item {
-  font-family: Roboto;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -40,7 +39,6 @@ body {
 }
 
 .header-contacts-text {
-  font-family: Roboto;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
@@ -51,7 +49,6 @@ body {
   background-color: var(--primary-color);
 }
 .main-text {
-  font-family: Roboto;
   font-size: 56px;
   font-weight: 700;
   line-height: 60px; /* 107.143% */
@@ -59,7 +56,6 @@ body {
   color: #fff;
 }
 .main-btn {
-  font-family: Roboto;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -68,7 +64,6 @@ body {
 }
 
 .feature-title {
-  font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -76,7 +71,6 @@ body {
   color: var(--primary-color);
 }
 .feature-title-text {
-  font-family: Roboto;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
@@ -84,7 +78,6 @@ body {
 }
 
 .box-title {
-  font-family: Roboto;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -94,7 +87,6 @@ body {
 }
 
 .team-headline {
-  font-family: Roboto;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -104,7 +96,6 @@ body {
 }
 
 .team-name {
-  font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -112,7 +103,6 @@ body {
   color: var(--primary-color);
 }
 .team-work {
-  font-family: Roboto;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
@@ -131,7 +121,6 @@ body {
   color: #f4f4fd;
 }
 .footer-text {
-  font-family: Roboto;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
@@ -141,7 +130,6 @@ body {
   color: var(--accent-color);
 }
 .portfolio-btn {
-  font-family: Roboto;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -149,7 +137,6 @@ body {
   color: var(--accent-color);
 }
 .portfolio-title {
-  font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -157,7 +144,6 @@ body {
   color: var(--primary-color);
 }
 .portfolio-pre-title {
-  font-family: Roboto;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
